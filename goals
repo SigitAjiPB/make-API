@@ -1,0 +1,22 @@
+1 Pemahaman Dasar Frontend dan Backend:
+ - Memahami bahwa frontend adalah tampilan dan interaksi pengguna, sedangkan backend adalah logika bisnis dan database.
+ - Belajar HTML, CSS, dan JavaScript untuk frontend.
+ - Belajar bahasa pemrograman backend seperti Node.js, Python, atau PHP.
+
+2. Pembuatan API:
+ - Mengerti bagaimana API bekerja dan bagaimana frontend mengakses data melalui API. 👍
+ - Belajar membuat API sederhana menggunakan Node.js dan Express.js atau framework lainnya. 👍
+
+3. Integrasi Frontend dengan API:
+ - Menggunakan JavaScript untuk mengirim dan menerima data dari API.
+ - Belajar menggunakan Fetch API atau library seperti Axios untuk melakukan request HTTP.
+
+4. Penggunaan Database:
+ - Memahami bagaimana backend berinteraksi dengan database untuk menyimpan dan mengambil data.
+ - Belajar menggunakan database seperti MySQL atau MongoDB dan cara mengaksesnya melalui backend.
+
+5. Autentikasi Pengguna:
+ - Mengerti bagaimana sistem login dan register bekerja dan bagaimana mengelola sesi pengguna.
+
+6. Deployment Aplikasi:
+ - Memahami bagaimana menerapkan aplikasi ke server dan membuatnya tersedia untuk pengguna.
